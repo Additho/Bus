@@ -1,0 +1,21 @@
+.img{
+    width: 100%;
+}
+.text{
+    margin-bottom: 300px;
+}
+
+.footer{
+   
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    /* margin-top: 320px; */
+}
+.footer h2{
+    font-family: 'Satisfy', cursive;
+padding: 25px 0px 10px 0px;
+color: crimson;
+    
+}
